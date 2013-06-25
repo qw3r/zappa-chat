@@ -1,0 +1,16 @@
+{
+  "name": "zappa_socketio_test",
+  "version": "0.0.0",
+  "description": "",
+  "main": "chat.coffee",
+  "dependencies": {
+    "zappajs": "~0.4.22"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "coffee chat.coffee",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "qw3r",
+  "license": "BSD"
+}
